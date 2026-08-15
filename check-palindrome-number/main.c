@@ -1,6 +1,9 @@
 #include <stdio.h>
 
-// Palindrome Number: A number is said to be a palindrome number if the reverse of the number is the same as the number itself.
+// Palindrome Number:
+// A number is said to be a palindrome number if the reverse of the number
+// is the same as the number itself.
+// Example: 121 (reverse of 121 is 121)
 
 int main() {
 
