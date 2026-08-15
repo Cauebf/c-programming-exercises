@@ -1,0 +1,29 @@
+# Compiled executables
+**/main
+*.exe
+*.out
+*.o
+*.a
+*.so
+
+# Object files
+*.o
+
+# Build directories
+build/
+bin/
+
+# Libraries
+*.a
+*.so
+
+# Debugging
+*.dSYM/
+*.gdb_history
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
